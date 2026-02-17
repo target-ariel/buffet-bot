@@ -25,6 +25,11 @@ For a 6-month horizon, these individual stocks are selected based on high ROE, l
 - **6-Month Catalyst:** Permitting milestones and M&A rumors.
 - **Risk:** No revenue; pure geometric volatility play.
 
+### 5. Rubrik (RBRK) - The Data Sniper
+- **Metric:** Focused on "Cyber Resilience" (Immutable backups).
+- **6-Month Catalyst:** Increasing frequency of "AI-assisted" ransomware makes data-layer protection mandatory.
+- **Risk:** High competition from legacy players like Commvault.
+
 ## Execution Strategy
 - **Broker:** Trading 212 (0.15% FX fee for CCJ, FCX, NXE; 0% for SHEL).
 - **Timeframe:** 6 Months.
