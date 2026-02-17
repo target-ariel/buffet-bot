@@ -5,8 +5,8 @@ Tracking the "Political Alpha" from congressional filings (primarily Paul/Nancy 
 
 ## 1. Palo Alto Networks (PANW) - Cybersecurity
 - **Strategy:** Deep-in-the-money LEAPS (Long-term options).
-- **Status:** Consolidating. Hasn't seen the "NVIDIA-style" vertical move yet.
-- **The Thesis:** In a 6-month window of heightened geopolitical tension, cybersecurity is a non-discretionary spend for every Fortune 500 company. It’s a "Digital Moat" play.
+- **Status:** Post-earnings dip (Feb 2026). Billing guidance shifted, but platform growth remains solid.
+- **The Thesis:** This is a "Buy the Dip" moment. The long-term "platformization" moat is intact. Pelosi's LEAPS are positioned for the recovery.
 
 ## 2. Microsoft (MSFT) - Enterprise AI
 - **Strategy:** Consistent accumulation of deep-in-the-money calls.
